@@ -41,6 +41,12 @@ let allMusic = [
     src: "DracoRosaftEnriqueBunbury-ObradeArte"
   },
   {
+    name: "Fukuoka",
+    artist: "Juan Luis Guerra",
+    img: "dama_noche_12",
+    src: "JuanLuisGuerra-BachataenFukuoka"
+  },
+  {
     name: "CASAS",
     artist: "Rubel",
     img: "leopardo_1",
